@@ -102,3 +102,6 @@ More improvements and new projects coming soon 🚀
 
 ## 📌 you are welcome to watch a video of the system
 https://www.youtube.com/watch?v=I0a2OoevXCk
+
+
+## there is an apk file available!
