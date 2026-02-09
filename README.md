@@ -1,4 +1,3 @@
-# Automatic-Attendance-System-BLE-Based-
 
 # Automatic Attendance System (BLE-Based)
 
