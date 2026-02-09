@@ -34,6 +34,21 @@ android {
 }
 
 dependencies {
+    implementation("com.squareup.okhttp3:okhttp:4.12.0")
+// ספרייה להמרת הטקסט מהשרת לאובייקטים ב-Java
+    implementation("com.google.code.gson:gson:2.10.1")
+    implementation("com.google.android.gms:play-services-auth:21.0.0")
+
+    implementation("io.github.jan-tennert.supabase:postgrest-kt:2.5.0")
+
+// ספריית ה-Authentication (בשביל הרישום עם גוגל)
+    implementation("io.github.jan-tennert.supabase:gotrue-kt:2.5.0")
+
+// ספריית ה-HTTP - סופבייס צריכה אותה כדי לדבר עם האינטרנט
+    implementation("io.ktor:ktor-client-android:2.3.5")
+
+    implementation("com.google.android.gms:play-services-location:21.0.1")
+
     implementation(libs.appcompat)
     implementation(libs.material)
     implementation(libs.activity)
