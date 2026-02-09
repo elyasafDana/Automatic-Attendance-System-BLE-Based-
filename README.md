@@ -99,3 +99,6 @@ The system works automatically and scales efficiently, regardless of the number 
 This project was built as a learning-focused, end-to-end system and served as a foundation for future projects.
 
 More improvements and new projects coming soon 🚀
+
+## 📌 you are welcome to watch a video of the system
+https://www.youtube.com/watch?v=I0a2OoevXCk
